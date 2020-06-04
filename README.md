@@ -22,3 +22,5 @@ docker run -it --rm -p 80:80 -p 443:443 --name ft_server ft_server bash
 //once inside the container shell
 bash ./startservices.sh
 ```
+
+*Note: In case of production use, please relpace passwords and change wp-config.php sha hash*
