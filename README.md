@@ -1,5 +1,6 @@
 # ft_server
 
+![100/100 score](./ft_server_success.png)
 Full container with nginx, php, wordpress and phpmyadmin as part of the ft_server for **42Madrid Coding School** as part of the mandatory cursus.
 
 To build container:
